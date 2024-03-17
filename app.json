@@ -12,19 +12,19 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "cyber-x@;;;pI8XTDDK#3SfRGAPhiXFaCkoMKt0Va_BMwUYKsXNOI1Mnzf4VEEc",
+            "description": "cyber-x@;;;ZB0l0LQT#D4nRzinz9qWnE0M6PvG-YFB1ILUul6pyANXHt1qJpsA",
             "required": true,
-            "value": "cyber-x@;;;pI8XTDDK#3SfRGAPhiXFaCkoMKt0Va_BMwUYKsXNOI1Mnzf4VEEc"
+            "value": "cyber-x@;;;ZB0l0LQT#D4nRzinz9qWnE0M6PvG-YFB1ILUul6pyANXHt1qJpsA"
         },
         "HEROKU_API_KEY": {
-            "description": "ae494e41-0302-42c3-a35a-91b53d8d39de",
+            "description": "0032eb61-a176-4e5e-86c0-afce6327f4ac",
             "required": true,
-            "value": "ae494e41-0302-42c3-a35a-91b53d8d39de"
+            "value": "0032eb61-a176-4e5e-86c0-afce6327f4ac"
         },
         "HEROKU_APP_NAME": {
-            "description": "ayeshacyber990",
+            "description": "ayeshacyber000",
             "required": true,
-            "value": "ayeshacyber990"
+            "value": "ayeshacyber000"
         },
         "WORK_TYPE": {
             "description": "Add the worktype of the Bot ( private , public , only_group )",
